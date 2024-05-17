@@ -17,8 +17,8 @@ This Python program aims to create a simple inventory management system for a ca
 
 5. Object Creation:
 -  Two objects of the Vehicle class are created:
-    -   Car 1: Maximum speed of 200kmph, mileage of 20kmpl, and seating capacity of 5.
-    -   Car 2: Maximum speed of 180kmph, mileage of 25kmpl, and seating capacity of 4.
+    -   Car 1: Maximum speed of 150kmph, mileage of 20kmpl, and seating capacity of 6.
+    -   Car 2: Maximum speed of 120kmph, mileage of 25kmpl, and seating capacity of 4.
 
 To view the functioning program, follow this [Replit project](https://replit.com/@shackerica/Car-Dealership-Inventory-Management-System)
 
